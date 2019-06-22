@@ -5,6 +5,7 @@
  */
 package exercise.pkgswitch;
 
+//Import library to input
 import java.util.Scanner;
  /*
  * @author lyhourchhen
